@@ -25,7 +25,7 @@
 
 <section>
   <h2>İletişim</h2>
-  <p>Email: <a href="mailto:email@ornek.com">email@ornek.com</a></p>
+  <p>Email: <a href="mailto:uygunemircan2789@gmail.com">uygunemircan2789@gmail.com</a></p>
 </section>
 
 <footer>
