@@ -20,7 +20,7 @@
 
 <section>
   <h2>Hakkımda</h2>
-  <p>Bu benim ufak, basit ve güzel sitem. Buraya kendimle ilgili bilgiler ekleyebilirim.</p>
+  <p>....</p>
 </section>
 
 <section>
